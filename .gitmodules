@@ -1,4 +1,3 @@
 [submodule "monero"]
 	path = monero
-	url = https://github.com/aeonix/aeon
-	ignore = all
+	url = https://github.com/NewEraCracker/aeon
